@@ -1,0 +1,12 @@
+[theme]
+base = "dark"
+primaryColor = "#ffffff"
+backgroundColor = "#121214"
+secondaryBackgroundColor = "#232327"
+textColor = "#f2f2f4"
+font = "sans serif"
+
+[client]
+# Prevents the top-right "Settings" menu from letting users toggle
+# System/Light/Dark, which is what was breaking the chalkboard look.
+toolbarMode = "minimal"
