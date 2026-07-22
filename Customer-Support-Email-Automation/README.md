@@ -2,7 +2,7 @@
   <img src="logo.png" alt="Email Automation Agent" width="600"/>
 </p>
 
-<h1 align="center">🚀 Customer Support Email Automation</h1>
+<h1 align="center">Customer Support Email Automation</h1>
 <p align="center"><b>Groq + Ollama + LangGraph + Dashboard</b></p>
 
 <p align="center">
