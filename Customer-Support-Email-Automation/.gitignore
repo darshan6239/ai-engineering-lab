@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.env
+data/app.db
+db/*
+!db/.gitkeep
+credentials.json
+token.json
+*.egg-info/
