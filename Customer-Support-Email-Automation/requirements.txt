@@ -1,0 +1,25 @@
+langchain-core
+langchain_community
+langgraph
+langchain-groq
+langchain-ollama
+langchain_chroma
+chromadb
+langchain_text_splitters
+google-api-python-client
+google-auth-oauthlib
+google-auth-httplib2
+beautifulsoup4
+python-dotenv
+colorama
+langserve
+sse_starlette
+uvicorn
+gunicorn
+fastapi
+tenacity
+httpx
+
+# testing
+pytest
+pytest-mock
