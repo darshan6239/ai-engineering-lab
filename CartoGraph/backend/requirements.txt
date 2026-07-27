@@ -1,0 +1,10 @@
+fastapi>=0.111.0
+uvicorn[standard]>=0.30.0
+python-multipart>=0.0.9
+pandas>=2.2.0
+openpyxl>=3.1.0
+neo4j>=5.20.0
+groq>=0.11.0
+python-dotenv>=1.0.0
+xlrd
+odfpy
