@@ -36,6 +36,5 @@ def main():
         for key, value in output.items():
             print(Fore.CYAN + f"Finished running: {key}:" + Style.RESET_ALL)
 
-
 if __name__ == "__main__":
     main()
