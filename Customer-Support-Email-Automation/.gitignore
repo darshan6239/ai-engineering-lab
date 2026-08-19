@@ -6,6 +6,7 @@ __pycache__/
 data/app.db
 db/*
 !db/.gitkeep
+
 credentials.json
 token.json
 *.egg-info/
