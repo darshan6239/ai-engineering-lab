@@ -6,7 +6,6 @@ from src import db
 
 config = {'recursion_limit': 100}
 
-
 def main():
     db.init_db()
     problems = print_startup_report(require_gmail=True)
